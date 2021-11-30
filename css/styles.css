@@ -51,8 +51,8 @@ General
 }
 
 #bio-container img {
-    width: 150px;
-    height: 150px;
+    width: 130px;
+    height: 170px;
 }
 
 /* Bio Container */
@@ -69,8 +69,8 @@ General
     font-weight: bold;
 }
 #bio-img {
-    width: 175px;
-    height: 175px;
+    width: 205px;
+    height: 205px;
     border-radius: 50%;
     margin-bottom: 25px;
 }
@@ -132,6 +132,7 @@ General
 .description {
     max-width: 75%;
     margin-bottom: 10px;
+    text-align: justify;
 }
 .description {
     max-width: 75%;
